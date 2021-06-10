@@ -1,0 +1,12 @@
+
+
+
+
+.color-box{
+    width: 200px;
+    display: inline-block;
+    height:200px;
+    border-radius: 5px;
+    transition : all ease-in-out 0.25s;
+    cursor: pointer;
+}
